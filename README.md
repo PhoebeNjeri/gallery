@@ -1,5 +1,5 @@
 # gallery
-By osman mohamed
+By Phoebe Gichuhi
 
 # Description.
 A personal gallery application that you display your photos for others to see.
